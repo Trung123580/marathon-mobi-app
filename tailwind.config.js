@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 
-import defaultTheme from "tailwindcss/defaultTheme"
+// import defaultTheme from "tailwindcss/defaultTheme"
 
 module.exports = {
   content: ["./app/**/*.{js,jsx,ts,tsx}", "./components/**/*.{js,jsx,ts,tsx}"],
@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        ...defaultTheme.colors,
+        // ...defaultTheme.colors,
         primary: "#161622",
         secondary: {
           DEFAULT: "#FF9C01",
