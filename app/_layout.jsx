@@ -1,7 +1,9 @@
 import { SplashScreen, Stack } from "expo-router"
 import React, { useEffect } from "react"
-import '../global.css';
-import {useFonts} from 'expo-font'
+import "../global.css"
+import { useFonts } from "expo-font"
+import AuthContext from "../context/AuthContext"
+
 SplashScreen.preventAutoHideAsync()
 const RootLayout = () => {
   const [fontLoaded, error] = useFonts({
@@ -21,11 +23,16 @@ const RootLayout = () => {
   }, [fontLoaded, error])
 
   if (!fontLoaded && !error) return null
-  
+
   return (
-    <Stack>
-      <Stack.Screen name='index' options={{  headerShown: false}}/>
-    </Stack>
+    <AuthContext>
+      <Stack>
+        <Stack.Screen name='index' options={{ headerShown: false }} />
+        <Stack.Screen name='(auth)' options={{ headerShown: false }} />
+        <Stack.Screen name='(tabs)' options={{ headerShown: false }} />
+        <Stack.Screen name='/search/[query]' options={{ headerShown: false }} />
+      </Stack>
+    </AuthContext>
   )
 }
 

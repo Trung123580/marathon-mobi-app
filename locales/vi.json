@@ -1,0 +1,105 @@
+{
+  "language": {
+    "vietnamese": "Tiếng Việt",
+    "english": "English"
+  },
+  "events": {
+    "upcomingEvents": "Sự Kiện Nổi Bật",
+    "viewPhotos": "Xem Ảnh",
+    "loadMore": "Tải Thêm"
+  },
+  "event": {
+    "date": "Ngày",
+    "description": "Mô tả",
+    "registerNow": "Mua kết quả tìm kiếm",
+    "photos": "Hình Ảnh Sự Kiện",
+    "notFound": "Không tìm thấy sự kiện",
+    "qrtitle": "QR thanh toán",
+    "conform": "Xác nhận xoá ?",
+    "deleteText": "Bạn chắc chắn muốn xoá ảnh ?",
+    "headerNotification": "Thông báo !",
+    "notification": "Đây chỉ là ảnh thumbnail, nếu bạn muốn tải ảnh hãy bấm xem ảnh và tải ảnh chất lượng cao nhé!",
+    "back":"Quay lại",
+    "bought": "Đã mua",
+    "noPhotos" : "Không tìm thấy ảnh",
+    "titleSearchBIB": "Bạn chưa chọn face vẫn tìm kiếm ",
+    "descriptionBIB": "Bạn chưa chọn khuôn mặt, tìm kiếm kết hợp khuôn mặt sẽ cho thêm kết quả đầy đủ hơn. Bạn có chắc tiếp tục tìm kiếm chỉ theo số BiB không?",
+    "noImgDownload": "Hãy chọn ảnh trước khi download nhé !"
+  },
+  "login": {
+    "title": "Đăng nhập",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "submit": "Gửi",
+    "error": "Email hoặc mật khẩu không hợp lệ",
+    "noAccount": "Chưa có tài khoản?",
+    "register": "Đăng ký tại đây",
+    "google": "Đăng nhập với Google"
+  },
+  "register": {
+    "title": "Đăng ký",
+    "name": "Tên",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "submit": "Gửi",
+    "haveAccount": "Đã có tài khoản?",
+    "login": "Đăng nhập tại đây"
+  },
+  "common": {
+    "home": "Trang chủ",
+    "events": "Sự kiện",
+    "news": "Tin tức",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "logout": "Đăng xuất",
+    "changepassword": "Đổi mật khẩu",
+    "forgotpassword": "Quên mật khẩu",
+    "historyPayment": "Lịch sử giao dịch",
+    "userInfo": "Thông tin cá nhân"
+  },
+  "search": {
+    "selectEvents": "Chọn hoặc tìm kiếm sự kiện",
+    "event1": "Marathon 2023",
+    "event2": "Bán Marathon 2023",
+    "event3": "Chạy 10K 2023",
+    "button": "Tìm kiếm",
+    "buy": "Mua",
+    "searchBib": "từ khoá dài hơn 4 ký tự",
+    "search": "Chọn & Truy cập",
+    "view": "Xem",
+    "searchPhotos": "Tìm kiếm",
+    "advancedSearch": "Tìm kiếm nâng cao",
+    "advancedSearchDescription": "Tìm kiếm theo cả số Bib và khuôn mặt để cho ra nhiều kết quả hơn",
+    "searchTerm": "Nhập vào số BIB",
+    "searchPlaceholder": "Nhập từ khoá tìm kiếm",
+    "selectFace": "Tìm theo khuôn mặt, nếu chưa có bạn hãy tải ảnh có 1 khuôn mặt lên",
+    "searchButton": "Tìm kiếm",
+    "uploadImage": "Chọn và tải ảnh lên",
+    "downloadSelected": "Tải tệp đã chọn"
+  },
+  "about": {
+    "title": "Về Chúng Tôi",
+    "content1": "Chào mừng bạn đến với nền tảng Ảnh Sự Kiện Marathon của chúng tôi.",
+    "content2": "Chúng tôi tận tâm ghi lại và chia sẻ những khoảnh khắc đáng nhớ nhất trong hành trình chạy bộ của bạn.",
+    "content3": "Đội ngũ nhiếp ảnh gia chuyên nghiệp của chúng tôi đảm bảo rằng mỗi bước chạy, mỗi nụ cười, và mỗi khoảnh khắc vượt qua vạch đích đều được lưu giữ mãi mãi."
+  },
+  "contact": {
+    "title": "Liên Hệ Với Chúng Tôi",
+    "name": "Tên",
+    "email": "Email",
+    "message": "Tin nhắn",
+    "send": "Gửi",
+    "phone": "Số điện thoại",
+    "notification": "số điện thoại không hợp lệ hoặc ko đúng ",
+    "headerNotification": "Thông báo !",
+    "success": "Gửi thành công",
+    "error": "gửi thất bại "
+    },
+  "footer": {
+    "poweredBy": "Được cung cấp bởi XmaxMedia"
+  }
+}
+
